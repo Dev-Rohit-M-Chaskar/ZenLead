@@ -1,0 +1,6 @@
+@ZenLead.Api_HostAddress = http://localhost:5114
+
+GET {{ZenLead.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

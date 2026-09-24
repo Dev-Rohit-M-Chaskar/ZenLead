@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="ZenLead.Client/ZenLead.Client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="ZenLead.Api/ZenLead.Api.csproj" />
+  <Project Path="ZenLead.Application/ZenLead.Application.csproj" />
+  <Project Path="ZenLead.Domain/ZenLead.Domain.csproj" />
+  <Project Path="ZenLead.Infrastructure/ZenLead.Infrastructure.csproj" />
+  <Project Path="ZenLead.Tests/ZenLead.Tests.csproj" />
+</Solution>

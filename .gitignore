@@ -1,0 +1,16 @@
+# Visual Studio / .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Angular / Node (ZenLead.Client also has its own, more detailed, .gitignore)
+node_modules/
+.angular/
+npm-debug.log
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
